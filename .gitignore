@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+work/
+output/
+*.ai
+*.png
+!examples/**/*.png
